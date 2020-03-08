@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ContactFrom_v17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583675940343</updated>
-      <workItem from="1583675941633" duration="8394000" />
+      <workItem from="1583675941633" duration="8681000" />
     </task>
     <task id="LOCAL-00001" summary="first comm">
       <created>1583678183255</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583685515213</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add images">
+      <created>1583685622265</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583685622265</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,22 +139,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="394" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583681200493" />
-    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1583685513595">
+    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1583685620564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583685513595" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1583679799094">
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583685620564" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1583686042883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583679799094" />
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583686042883" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1583676501083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583676501083" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1583685607466">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1583685623887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583685607466" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583685623887" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583681476412">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
