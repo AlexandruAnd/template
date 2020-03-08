@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e79458f-3da8-4925-b282-056fc9cde7c9" name="Default Changelist" comment="first comm">
+    <list default="true" id="9e79458f-3da8-4925-b282-056fc9cde7c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appoiment.html" beforeDir="false" afterPath="$PROJECT_DIR$/appoiment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/default.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +34,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1YqhH6f1RAITyt1sivA0VoMCB1m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ContactFrom_v17" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -65,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583675940343</updated>
-      <workItem from="1583675941633" duration="2608000" />
+      <workItem from="1583675941633" duration="8119000" />
     </task>
     <task id="LOCAL-00001" summary="first comm">
       <created>1583678183255</created>
@@ -88,32 +96,52 @@
       <option name="project" value="LOCAL" />
       <updated>1583678448189</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first comm">
+      <created>1583678562738</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583678562738</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first comm" />
     <option name="LAST_COMMIT_MESSAGE" value="first comm" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1583678519570">
+    <state x="275" y="25" key="#Notifications" timestamp="1583678590719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583678519570" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1583678074643">
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583678590719" />
+    <state x="394" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583681200493">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583678074643" />
+    <state x="394" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583681200493" />
+    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1583678561072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583678561072" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1583679799094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583679799094" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1583676501083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583676501083" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1583678451609">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1583678565553">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583678451609" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583678565553" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583681476412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583681476412" />
   </component>
 </project>
